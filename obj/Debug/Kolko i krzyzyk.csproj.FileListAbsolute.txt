@@ -1,0 +1,10 @@
+C:\Users\olaab\source\repos\Kolko i krzyzyk\bin\Debug\Kolko i krzyzyk.exe.config
+C:\Users\olaab\source\repos\Kolko i krzyzyk\bin\Debug\Kolko i krzyzyk.exe
+C:\Users\olaab\source\repos\Kolko i krzyzyk\bin\Debug\Kolko i krzyzyk.pdb
+C:\Users\olaab\source\repos\Kolko i krzyzyk\obj\Debug\Kolko i krzyzyk.csproj.AssemblyReference.cache
+C:\Users\olaab\source\repos\Kolko i krzyzyk\obj\Debug\Kolko_i_krzyzyk.Form1.resources
+C:\Users\olaab\source\repos\Kolko i krzyzyk\obj\Debug\Kolko_i_krzyzyk.Properties.Resources.resources
+C:\Users\olaab\source\repos\Kolko i krzyzyk\obj\Debug\Kolko i krzyzyk.csproj.GenerateResource.cache
+C:\Users\olaab\source\repos\Kolko i krzyzyk\obj\Debug\Kolko i krzyzyk.csproj.CoreCompileInputs.cache
+C:\Users\olaab\source\repos\Kolko i krzyzyk\obj\Debug\Kolko i krzyzyk.exe
+C:\Users\olaab\source\repos\Kolko i krzyzyk\obj\Debug\Kolko i krzyzyk.pdb
